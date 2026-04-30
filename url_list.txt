@@ -6,7 +6,7 @@ https://academy.networkchuck.com/courses
 https://www.exploit-db.com/
 https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 https://www.globalsuitesolutions.com/iso-standards-and-regulations-for-improving-cybersecurity/
-https://github.com/Axle-Bucamp/awesome-k8s-resources
+https://github.com/tomhuang12/awesome-k8s-resources
 https://github.com/punkpeye/awesome-mcp-servers
 https://github.com/samkhur006/awesome-llm-planning-reasoning
 https://github.com/milanm/DevOps-Roadmap
